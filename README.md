@@ -1,46 +1,61 @@
-# Hello-World
-First Hello World
-Project Name
-Hello World project is a project that was carried out using the gitbash, vscode and github using the necessary tools like linters and adhering to Gitflow rules. The aim of the project is to master all the tools and also to have a bug free project.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-screenshot
+# Hello Microverse
 
-Additional description about the project and its features.
 
-Built With
-HTML
-CSS
-GIT (Hub, Bash, Vscode)
+This project displays the Hello Microverse, it was built with Html, Css,Vscode,Git and Github. 
 
-Live Demo Link
-https://github.com/Goodluck5956/Hello-World/tree/feature-1
+![screenshot](./images/screenshot.png)
 
-Getting Started
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
+
+## Built With
+
+- Html
+- Css
+
+## Live Demo
+
+[Live Demo Link](https://goodluck5956.github.io/mobile-skeleton/)
+
+## Getting Started
+
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
 
 To get a local copy up and running follow these simple example steps.
 
-Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
-Authors
-👤 Author1
+### Prerequisites
+    - VS Code
+    -Github
 
-GitHub: @Goodluck5956
-LinkedIn: https://www.linkedin.com/in/lucky-james-osuagwu-a8677b171
+### Setup
+   - git clone your repo
+   - cd into the folder
+   - open index.html with live server
 
-🤝 Contributing
+### Install
+    VS Code
+
+### Usage
+    This is a simple project to dipslay the header and footer of my portfolio mobile version page.
+
+
+## Authors
+
+👤 **Author1**
+Lucky James
+
+- GitHub: [@Goodluck5956](https://github.com/Goodluck5956)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucky-james-osuagwu-a8677b171)
+
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](https://github.com/Goodluck5956/mobile-skeleton/issues).
 
-Show your support
-Give a ⭐️ if you like this project!
+## Show your support
 
-Acknowledgments
-I want to reference anyone whose code was used
-Microverse
-etc
+Give a ⭐ if you like this project!
