@@ -5,7 +5,7 @@
 
 This project displays the Hello Microverse, it was built with Html, Css,Vscode,Git and Github. 
 
-![screenshot](./images/screenshot.png)
+![screenshot](./images/heloscreen.png)
 
 
 ## Built With
@@ -15,7 +15,7 @@ This project displays the Hello Microverse, it was built with Html, Css,Vscode,G
 
 ## Live Demo
 
-[Live Demo Link](https://goodluck5956.github.io/mobile-skeleton/)
+[Live Demo Link](https://goodluck5956.github.io/Hello-World/)
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple example steps.
     VS Code
 
 ### Usage
-    This is a simple project to dipslay the header and footer of my portfolio mobile version page.
+    This is a simple project to dipslay Hello Microverse page.
 
 
 ## Authors
@@ -54,7 +54,7 @@ Lucky James
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Goodluck5956/mobile-skeleton/issues).
+Feel free to check the [issues page](https://github.com/Goodluck5956/Hello-World/issues).
 
 ## Show your support
 
