@@ -5,7 +5,7 @@
 
 This project displays the Hello Microverse, it was built with Html, Css,Vscode,Git and Github. 
 
-![screenshot](./images/screenshot2.png)
+![screenshot](./images/helloMic.png)
 
 
 ## Built With
